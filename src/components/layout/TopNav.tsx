@@ -61,7 +61,7 @@ export const TopNav: React.FC = () => {
       {/* Left Breadcrumb & Title */}
       <div className="flex items-center gap-3 pl-10 md:pl-0">
         <div className="flex items-center gap-2 text-xs text-slate-400">
-          <span className="font-semibold text-indigo-400">NEXUS</span>
+          <span className="font-semibold text-indigo-400">COMMAND</span>
           <span>/</span>
           <span className="text-slate-200 font-medium">{getBreadcrumb()}</span>
         </div>
